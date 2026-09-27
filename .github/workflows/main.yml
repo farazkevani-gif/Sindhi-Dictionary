@@ -56,20 +56,15 @@ jobs:
         run: |
           python -m pip install --upgrade pip setuptools wheel
           
-          # Install a newer/compatible buildozer and tools stack
+          # Install a stable, updated buildozer master stack + cython + kivy
           python -m pip install \
             git+https://github.com/kivy/buildozer.git@master \
             cython==0.29.33 \
             kivy
 
-      - name: Patch p4a venv pip invocation (Fix BuildDependencyInstallError)
+      - name: Setup Pip Constraints to Block Broken Pip Versions
         run: |
-          # Locate where python-for-android creates virtual environments and pin pip inside it or patch the call
-          PYTHON_FOR_ANDROID_DIR=$(python -c "import pythonfor_android; import os; print(os.path.dirname(pythonfor_android.__file__))" 2>/dev/null || echo "")
-          echo "Found p4a at: $PYTHON_FOR_ANDROID_DIR"
-          
-          # If p4a is installed, we can look for bootstrap files, or let buildozer use a pinned pip constraint
-          echo "Creating pip constraint to prevent upgrading to broken pip versions inside p4a venvs..."
+          # Create a constraints file to prevent p4a from upgrading pip to a version missing BuildDependencyInstallError
           mkdir -p ~/.pip
           echo "pip<=24.0" > ~/.pip/constraints.txt
 
