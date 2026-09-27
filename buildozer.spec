@@ -1,10 +1,5 @@
 [app]
 
-# This .spec config file tells Buildozer an app's requirements for being built.
-#
-# Sindhi Dictionary Android Application
-#
-
 # (str) Title of your application
 title = Sindhi Dictionary
 
@@ -33,8 +28,7 @@ source.exclude_patterns = *.pyc,*.pyo,*.bak,*.save,*_backup.py,*_review.csv,*_au
 version = 1.0
 
 # (list) Application requirements
-# Python 3.11 pinned with stable charset-normalizer to prevent cp314 wheel conflicts
-requirements = python3==3.11.9,hostpython3==3.11.9,kivy,charset-normalizer==3.3.2
+requirements = python3,kivy,charset-normalizer==3.3.2
 
 # (list) Supported orientations
 orientation = portrait
@@ -46,7 +40,7 @@ fullscreen = 0
 osx.kivy_version = 2.3.1
 
 # ---------------------------------------------------------
-# Android SDK
+# Android SDK / NDK
 # ---------------------------------------------------------
 
 # Target Android API
@@ -58,7 +52,7 @@ android.minapi = 24
 # Android SDK version
 android.sdk = 34
 
-# Android NDK version (NDK 25b is stable for multi-arch p4a builds)
+# Android NDK version
 android.ndk = 25b
 
 # Android NDK API
@@ -90,15 +84,11 @@ android.wakelock = False
 android.permissions = android.permission.INTERNET
 
 # ---------------------------------------------------------
-# Android architecture
+# Android architecture & artifacts
 # ---------------------------------------------------------
 
 # Modern 64-bit ARM plus 32-bit ARM support
 android.archs = arm64-v8a,armeabi-v7a
-
-# ---------------------------------------------------------
-# Android artifact
-# ---------------------------------------------------------
 
 # Debug build produces APK
 android.debug_artifact = apk
@@ -106,10 +96,7 @@ android.debug_artifact = apk
 # Release build produces APK
 android.release_artifact = apk
 
-# ---------------------------------------------------------
 # Android backup
-# ---------------------------------------------------------
-
 android.allow_backup = True
 
 # ---------------------------------------------------------
@@ -129,7 +116,7 @@ p4a.bootstrap = sdl2
 android.copy_libs = 1
 
 # ---------------------------------------------------------
-# Buildozer
+# Buildozer settings
 # ---------------------------------------------------------
 
 [buildozer]
