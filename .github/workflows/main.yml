@@ -1,3 +1,4 @@
+```yaml
 name: Build Android APK
 
 on:
@@ -22,7 +23,6 @@ jobs:
 
       # =========================================================
       # JAVA 17
-      # No Gradle cache — this is a Buildozer/Kivy project.
       # =========================================================
 
       - name: Set up JDK 17
@@ -33,7 +33,7 @@ jobs:
 
 
       # =========================================================
-      # PYTHON
+      # PYTHON 3.10
       # =========================================================
 
       - name: Set up Python 3.10
@@ -143,6 +143,10 @@ jobs:
           echo "Cython:"
           cython --version
 
+          echo
+          echo "Kivy:"
+          python -c "import kivy; print(kivy.__version__)"
+
           echo "=========================================="
 
 
@@ -156,16 +160,18 @@ jobs:
           echo "PROJECT FILES"
           echo "=========================================="
 
+          echo
+          echo "Working directory:"
           pwd
 
           echo
-          echo "Project:"
-          find . -maxdepth 2 -type f | sort
+          echo "Project files:"
+          find . -maxdepth 2 -type f -not -path './.git/*' | sort
 
           echo
           echo "Checking required files..."
 
-          test -f main.py
+          # Required files that actually exist in the repository
           test -f buildozer.spec
           test -f dictionary_stage14_grouped.csv
           test -f dictionary_stage18_reverse_index.json
@@ -176,10 +182,12 @@ jobs:
 
           echo
           echo "Buildozer configuration:"
+          echo "=========================================="
           cat buildozer.spec
+          echo "=========================================="
 
           echo
-          echo "=========================================="
+          echo "Project verification completed successfully."
 
 
       # =========================================================
@@ -188,11 +196,21 @@ jobs:
 
       - name: Build APK with Buildozer
         env:
+          BUILDOZER_ALLOW_ROOT: "1"
           BUILDOZER_WARN_ON_ROOT: "0"
+          BUILDOZER_ACCEPT_SDK_LICENSES: "1"
+
         run: |
           echo "=========================================="
           echo "ANDROID BUILD STARTING"
           echo "=========================================="
+
+          echo
+          echo "Buildozer version:"
+          buildozer --version
+
+          echo
+          echo "Starting Buildozer Android debug build..."
 
           buildozer -v android debug
 
@@ -219,7 +237,7 @@ jobs:
 
 
       # =========================================================
-      # UPLOAD BUILD LOGS IF ANY
+      # UPLOAD BUILD LOGS
       # =========================================================
 
       - name: Upload Buildozer logs
@@ -231,3 +249,4 @@ jobs:
             .buildozer/
             bin/
           if-no-files-found: ignore
+```
