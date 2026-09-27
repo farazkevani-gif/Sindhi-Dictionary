@@ -2,25 +2,238 @@ name: Build Android APK
 
 on:
   push:
-    branches: [ main ]
+    branches:
+      - main
   workflow_dispatch:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
-    container:
-      image: ghcr.io/kivy/buildozer:latest
+    runs-on: ubuntu-22.04
 
     steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
 
-    - name: Build APK with Buildozer
-      run: |
-        buildozer android debug
+      # ============================================================
+      # CHECKOUT
+      # ============================================================
 
-    - name: Upload APK Artifact
-      uses: actions/upload-artifact@v4
-      with:
-        name: SindhiDictionary-APK
-        path: bin/*.apk
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+
+      # ============================================================
+      # JAVA 17
+      # ============================================================
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+          cache: gradle
+
+
+      # ============================================================
+      # PYTHON 3.10
+      # ============================================================
+
+      - name: Set up Python 3.10
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+
+      # ============================================================
+      # VERIFY ENVIRONMENT
+      # ============================================================
+
+      - name: Verify environment
+        run: |
+          echo "=========================================="
+          echo "ENVIRONMENT"
+          echo "=========================================="
+
+          echo "User:"
+          whoami
+
+          echo
+          echo "Python:"
+          python --version
+
+          echo
+          echo "Python path:"
+          which python
+
+          echo
+          echo "Pip:"
+          python -m pip --version
+
+          echo
+          echo "Java:"
+          java -version
+
+          echo
+          echo "=========================================="
+
+          if [ "$(id -u)" -eq 0 ]; then
+            echo "Running as root: YES"
+          else
+            echo "Running as root: NO"
+          fi
+
+          echo "=========================================="
+
+
+      # ============================================================
+      # SYSTEM DEPENDENCIES
+      # ============================================================
+
+      - name: Install system dependencies
+        run: |
+          sudo apt-get update
+
+          sudo apt-get install -y \
+            git \
+            zip \
+            unzip \
+            autoconf \
+            automake \
+            autopoint \
+            gettext \
+            libtool \
+            pkg-config \
+            zlib1g-dev \
+            libncurses5-dev \
+            libncursesw5-dev \
+            libtinfo5 \
+            libssl-dev \
+            libffi-dev \
+            libsqlite3-dev \
+            cmake \
+            build-essential \
+            ccache
+
+
+      # ============================================================
+      # PYTHON BUILD TOOLS
+      # ============================================================
+
+      - name: Install Python build tools
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+
+          python -m pip install \
+            buildozer \
+            cython==0.29.33 \
+            kivy
+
+
+      # ============================================================
+      # VERIFY BUILDOZER
+      # ============================================================
+
+      - name: Verify Buildozer
+        run: |
+          echo "=========================================="
+          echo "BUILDOZER"
+          echo "=========================================="
+
+          buildozer --version
+
+          echo
+          echo "Buildozer path:"
+          which buildozer
+
+          echo
+          echo "Cython:"
+          cython --version
+
+          echo "=========================================="
+
+
+      # ============================================================
+      # VERIFY PROJECT
+      # ============================================================
+
+      - name: Verify project files
+        run: |
+          echo "=========================================="
+          echo "PROJECT FILES"
+          echo "=========================================="
+
+          pwd
+
+          echo
+          echo "Files:"
+          find . -maxdepth 2 -type f | sort
+
+          echo
+          echo "Buildozer spec:"
+          test -f buildozer.spec
+          cat buildozer.spec
+
+          echo
+          echo "Main application:"
+          test -f main.py
+
+          echo
+          echo "Dictionary:"
+          test -f dictionary_stage14_grouped.csv
+
+          echo
+          echo "Reverse index:"
+          test -f dictionary_stage18_reverse_index.json
+
+          echo
+          echo "Sindhi font:"
+          test -f fonts/NotoSansArabic-Regular.ttf
+
+          echo "=========================================="
+
+
+      # ============================================================
+      # BUILD APK
+      # ============================================================
+
+      - name: Build APK with Buildozer
+        env:
+          BUILDOZER_WARN_ON_ROOT: "0"
+        run: |
+          echo "=========================================="
+          echo "BUILDING ANDROID APK"
+          echo "=========================================="
+
+          buildozer -v android debug
+
+          echo
+          echo "=========================================="
+          echo "BUILD FINISHED"
+          echo "=========================================="
+
+          ls -lah bin/
+
+
+      # ============================================================
+      # UPLOAD APK
+      # ============================================================
+
+      - name: Upload APK artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: SindhiDictionary-APK
+          path: bin/*.apk
+          if-no-files-found: error
+
+
+      # ============================================================
+      # UPLOAD BUILD LOG
+      # ============================================================
+
+      - name: Upload Buildozer logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: SindhiDictionary-Build-Logs
+          path: |
+            .buildozer/
+            bin/
+          if-no-files-found: ignore
