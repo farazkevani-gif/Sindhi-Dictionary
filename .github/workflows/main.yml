@@ -11,8 +11,18 @@ jobs:
     runs-on: ubuntu-22.04
 
     steps:
+
+      # =========================================================
+      # CHECKOUT
+      # =========================================================
+
       - name: Checkout repository
         uses: actions/checkout@v4
+
+
+      # =========================================================
+      # JAVA 17
+      # =========================================================
 
       - name: Set up JDK 17
         uses: actions/setup-java@v6
@@ -20,38 +30,25 @@ jobs:
           distribution: temurin
           java-version: "17"
 
+
+      # =========================================================
+      # PYTHON 3.10
+      # =========================================================
+
       - name: Set up Python 3.10
         uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
-      - name: Verify environment
-        run: |
-          echo "=========================================="
-          echo "ENVIRONMENT"
-          echo "=========================================="
-          echo "User:"
-          whoami
-          echo
-          echo "UID:"
-          id -u
-          echo
-          echo "Python:"
-          python --version
-          echo
-          echo "Python path:"
-          which python
-          echo
-          echo "Pip:"
-          python -m pip --version
-          echo
-          echo "Java:"
-          java -version
-          echo "=========================================="
+
+      # =========================================================
+      # SYSTEM DEPENDENCIES
+      # =========================================================
 
       - name: Install system dependencies
         run: |
           sudo apt-get update
+
           sudo apt-get install -y \
             git \
             zip \
@@ -73,24 +70,74 @@ jobs:
             build-essential \
             ccache
 
+
+      # =========================================================
+      # PYTHON BUILD TOOLS
+      # =========================================================
+
       - name: Install Python build tools
         run: |
           python -m pip install --upgrade pip setuptools wheel
-          python -m pip install buildozer cython==0.29.33 kivy
 
-      - name: Verify Buildozer
+          python -m pip install \
+            buildozer \
+            cython==0.29.33 \
+            kivy
+
+
+      # =========================================================
+      # VERIFY ENVIRONMENT
+      # =========================================================
+
+      - name: Verify environment
         run: |
           echo "=========================================="
-          echo "BUILDOZER"
+          echo "ENVIRONMENT"
           echo "=========================================="
-          which buildozer
+
+          echo "User:"
+          whoami
+
           echo
+          echo "Python:"
+          python --version
+
+          echo
+          echo "Java:"
+          java -version
+
+          echo
+          echo "Buildozer:"
           buildozer --version
-          echo
-          cython --version
-          echo
-          python -c "import kivy; print('Kivy:', kivy.__version__)"
+
           echo "=========================================="
+
+
+      # =========================================================
+      # ANDROID SDK LICENSES
+      # =========================================================
+
+      - name: Prepare Android SDK
+        env:
+          ANDROID_HOME: /home/runner/.buildozer/android/platform/android-sdk
+          ANDROID_SDK_ROOT: /home/runner/.buildozer/android/platform/android-sdk
+        run: |
+          echo "=========================================="
+          echo "ANDROID SDK LICENSE SETUP"
+          echo "=========================================="
+
+          mkdir -p "$ANDROID_HOME/licenses"
+
+          echo "Accepting Android SDK licenses..."
+
+          yes | sdkmanager --licenses || true
+
+          echo "=========================================="
+
+
+      # =========================================================
+      # VERIFY PROJECT
+      # =========================================================
 
       - name: Verify project files
         run: |
@@ -123,11 +170,18 @@ jobs:
           echo
           echo "Project verification completed successfully."
 
+
+      # =========================================================
+      # BUILD APK
+      # =========================================================
+
       - name: Build APK with Buildozer
         env:
           BUILDOZER_ALLOW_ROOT: "1"
           BUILDOZER_WARN_ON_ROOT: "0"
           BUILDOZER_ACCEPT_SDK_LICENSES: "1"
+          ANDROID_HOME: /home/runner/.buildozer/android/platform/android-sdk
+          ANDROID_SDK_ROOT: /home/runner/.buildozer/android/platform/android-sdk
         run: |
           echo "=========================================="
           echo "ANDROID BUILD STARTING"
@@ -144,12 +198,22 @@ jobs:
           echo "APK FILES:"
           ls -lah bin/
 
+
+      # =========================================================
+      # UPLOAD APK
+      # =========================================================
+
       - name: Upload APK artifact
         uses: actions/upload-artifact@v4
         with:
           name: SindhiDictionary-APK
           path: bin/*.apk
           if-no-files-found: error
+
+
+      # =========================================================
+      # UPLOAD BUILD LOGS
+      # =========================================================
 
       - name: Upload Buildozer logs
         if: always()
