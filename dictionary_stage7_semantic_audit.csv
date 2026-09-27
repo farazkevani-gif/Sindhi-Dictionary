@@ -1,0 +1,203 @@
+﻿row,english,sindhi,english_definition,semantic_status,semantic_reason
+1,arriving,سَهيڙو,Arriving.,PASS,
+2,atlantic,اوقيانوس,Atlantic.,PASS,
+3,blanco,کَڙۇ,Blanco.,PASS,
+4,breaking,ٽوڙَڦوڙَ,Breaking.,REVIEW,Context-sensitive English headword
+5,bullying,دَهْمانُ,Bullying.,PASS,
+6,butts,گوليِ مارِ,Butts.,PASS,
+7,complaining,شڪايتيِ,Complaining.,PASS,
+8,compliments,آداب,Compliments.,PASS,
+9,congratulations,سُواڏائيِ,Congratulations.,PASS,
+10,convex,اُپيٽو,Convex.,PASS,
+11,convex,ماهيِ پُشْتِ,Convex.,PASS,
+12,coral,ڳُڻيٺيٍِ,Coral.,PASS,
+13,coral,مَرْجانِ,Coral.,PASS,
+14,crisp,کڙڪيدار,Crisp.,PASS,
+15,crooked,وِنگو,Crooked.,PASS,
+16,crooked,پۇڄا,Crooked.,PASS,
+17,curse,بددعا,Curse.,PASS,
+18,cursed,ڀِِيڻيِ ڀَِِڳَو,Cursed.,PASS,
+19,cursed,پِٽِڻيِ,Cursed.,PASS,
+20,cursed,لَعْنتي,Cursed.,PASS,
+21,curved,خمدار,Curved.,PASS,
+22,drinking,پِئَٹيِ,Drinking.,PASS,
+23,drinking,پيڄُ,Drinking.,PASS,
+24,ebony,آبنوُس,Ebony.,PASS,
+25,egypt,مِصْرُ,Egypt.,PASS,
+26,england,اِنگلستانُ,England.,PASS,
+27,equine,گهوڙيجو,Equine.,PASS,
+28,everywhere,جاءِبَجاءِ,Everywhere.,PASS,
+29,everywhere,هرجاءِ,Everywhere.,PASS,
+30,everywhere,هرگاه,Everywhere.,PASS,
+31,everywhere,هنڌين ماڳين,Everywhere.,PASS,
+32,everywhere,پاڙي پَنڌِ,Everywhere.,PASS,
+33,exactly,يَٿارَٿِ,Exactly.,PASS,
+34,fireworks,آتشبازي,Fireworks.,PASS,
+35,flaming,آتش بار,Flaming.,PASS,
+36,forgiveness,بَخِشَ,Forgiveness.,PASS,
+37,giving,ڏئڻيِ,Giving.,PASS,
+38,giving,ڏيتيِ,Giving.,PASS,
+39,greater,اَڪِبَرُ,Greater.,PASS,
+40,greece,يۇنانُ,Greece.,PASS,
+41,kissing,چُمڻيِ,Kissing.,PASS,
+42,licking,چَٽَ,Licking.,PASS,
+43,liter,پوشِ,liter,PASS,
+44,nineteenth,اُوڻيِهون,Nineteenth.,PASS,
+45,nowadays,اَڄ,Nowadays.,PASS,
+46,parents,ماتا پِتا,Parents.,PASS,
+47,parents,والِدَيْنِ,Parents.,PASS,
+48,persia,اِيران,Persia.,PASS,
+49,preaching,وَعِظُ,Preaching.,PASS,
+50,preaching,وَعَظُ,Preaching.,PASS,
+51,preaching,پِرْچارُ,Preaching.,PASS,
+52,prophets,اَنْبِيا,Prophets.,PASS,
+53,proving,اِثباتي,Proving.,PASS,
+54,pulling,ساهَ,Pulling.,REVIEW,Context-sensitive English headword
+55,remembered,يادِ,Remembered.,PASS,
+56,risen,اُٿِياڪُ,Risen.,REVIEW,Context-sensitive English headword
+57,ruined,زافُ,Ruined.,REVIEW,Context-sensitive English headword
+58,savings,بَچَت,Savings.,PASS,
+59,savings,ڪَٽيِ,Savings.,PASS,
+60,secondly,ٻيوتہ,Secondly.,PASS,
+61,secretly,پَر۾,Secretly.,PASS,
+62,shaking,ڌُڏِ ڌُڏِ,Shaking.,PASS,
+63,shaking,لوڏَ,Shaking.,PASS,
+64,slaves,ٻانَهوثِ,Slaves.,PASS,
+65,sometimes,بعضي بعضي,Sometimes.,PASS,
+66,sometimes,گاهيِ گاهيِ,Sometimes.,PASS,
+67,sound,ڪَرَلُ,Sound.,REVIEW,Context-sensitive English headword
+68,sound,ڪَڙْڪَڙِ,Sound.,REVIEW,Context-sensitive English headword
+69,sounding,تانَگهہ,Sounding.,PASS,
+70,spinach,اِسفناج,Spinach.,PASS,
+71,still,توءِ,Still.,REVIEW,Context-sensitive English headword
+72,storing,سَٿَ,Storing.,PASS,
+73,successful,ڪرتارٿ,Successful.,REVIEW,Context-sensitive English headword
+74,suitable,بابَ خو,Suitable.,REVIEW,Context-sensitive English headword
+75,swallowing,ڳِهَڻِ,Swallowing.,PASS,
+76,swallowing,اُرِڪَ,Swallowing.,PASS,
+77,syria,شامُ,Syria.,PASS,
+78,tailed,پُڇِرُ,Tailed.,PASS,
+79,talk,گويا,Talk.,REVIEW,Context-sensitive English headword
+80,talk,سُرْجيِتُ,Talk,REVIEW,Context-sensitive English headword
+81,theatrical,ناٽڪيِ,Theatrical.,PASS,
+82,thunder,رَعْدُ,Thunder.,PASS,
+83,tickling,ڪِتِڪوئيِ,Tickling.,PASS,
+84,tolerant,سهن سيل,Tolerant.,PASS,
+85,tomato,ٽَماٽو,Tomato.,PASS,
+86,tomorrow,فَرْدا,Tomorrow.,PASS,
+87,transferred,مُنْتَقِلُ,Transferred.,PASS,
+88,travelling,اُجهاڳو,Travelling.,PASS,
+89,travelling,سفريِ,Travelling.,PASS,
+90,trees,وَڻاهُ,Trees.,PASS,
+91,trouble,تَنگَ,Trouble.,REVIEW,Context-sensitive English headword
+92,twentieth,ويِهون,Twentieth.,PASS,
+93,vomiting,مُنهَن ڦُلَ,Vomiting.,PASS,
+94,vomiting,منهن کار,Vomiting.,PASS,
+95,wandering,ٽولاڪو,Wandering.,REVIEW,Context-sensitive English headword
+96,wandering,جهوتَ,Wandering.,REVIEW,Context-sensitive English headword
+97,watching,نگهبانيِ,Watching.,REVIEW,Context-sensitive English headword
+98,weighing,جوکَہ,Weighing.,PASS,
+99,worry,گينداڙَ,Worry.,PASS,
+100,wrestling,ڪُشْتيِ,Wrestling.,PASS,
+101,wrestling,مَلَ,Wrestling.,PASS,
+102,pulling,کِنچاتاڻَ,"Pulling, pressure.",REVIEW,Context-sensitive English headword
+103,ruined,بَرِباد,"Ruined, destroyed, lost.",REVIEW,Context-sensitive English headword
+104,ruined,ڀَثِڻِ,"Ruined, destroyed.",REVIEW,Context-sensitive English headword
+105,ruined,تَباهُ,"Ruined, undone.",REVIEW,Context-sensitive English headword
+106,sound,اَروﮖ,"Sound, healthy.",REVIEW,Context-sensitive English headword
+107,sound,ڪَڙلاءُ,"Sound, voice.",REVIEW,Context-sensitive English headword
+108,sound,کَڙاکَڙيِ,"Sound, strong.",REVIEW,Context-sensitive English headword
+109,sound,آلابُ,"Sound, cry.",REVIEW,Context-sensitive English headword
+110,successful,سَمُرادو,Successful. Amiable.,REVIEW,Context-sensitive English headword
+111,talk,آلاءُ,"Talk, conversation.",REVIEW,Context-sensitive English headword
+112,talk,چَوْپَچَؤ,"Talk, conversation.",REVIEW,Context-sensitive English headword
+113,talk,گُفْتارُ,"Talk, chat.",REVIEW,Context-sensitive English headword
+114,talk,ڳائووائو,"Talk, mention.",REVIEW,Context-sensitive English headword
+115,trouble,اَهَنْجُ,"Trouble, inconvenience; pain.",REVIEW,Context-sensitive English headword
+116,trouble,اِيذاءُ,"Trouble, nuisance; pain.",REVIEW,Context-sensitive English headword
+117,trouble,تَصْديِعَ,"Trouble, difficulty.",REVIEW,Context-sensitive English headword
+118,trouble,تَڪْلِيفَ,"Trouble, difficulty, hardship.",REVIEW,Context-sensitive English headword
+119,trouble,جاکوڙَ,"Trouble, difficulty, vexation.",REVIEW,Context-sensitive English headword
+120,trouble,سُتۇنُ,Trouble. Speech.,REVIEW,Context-sensitive English headword
+121,trouble,ڪاڪاهو,"Trouble, pain, difficulty.",REVIEW,Context-sensitive English headword
+122,pulling,گوشِماليِ,Pulling the ears; chastisement; reproof.,REVIEW,Context-sensitive English headword
+123,pulling,ڎاڙهئيِ پَٽَ,"Pulling of beards; quarrelling, scuffle.",REVIEW,Context-sensitive English headword
+124,risen,آڪِرو,"Risen in price, dear; cross-dispositioned.",REVIEW,Context-sensitive English headword
+125,sound,اَروﮘا ئيِ,"Sound health, freedom from sickness.",REVIEW,Context-sensitive English headword
+126,sound,چَرْٻمِ,Sound made in eating.,REVIEW,Context-sensitive English headword
+127,sound,سُمَتيِ,Sound sense or judgment.,REVIEW,Context-sensitive English headword
+128,sound,صَدا,"Sound, voice, echo. Mendicant's cry.",REVIEW,Context-sensitive English headword
+129,sound,گهِڻْگِهڻِ,"Sound of a bell, ding-dong.",REVIEW,Context-sensitive English headword
+130,still,تِهائيِن,"Still more, the more.",REVIEW,Context-sensitive English headword
+131,still,ڪُهائيِ,Still born (an infant).,REVIEW,Context-sensitive English headword
+132,suitable,جوڳو,"Suitable, fit, proper, sufficient; liable.",REVIEW,Context-sensitive English headword
+133,talk,چَرْچو,"Talk, report; joking, ridicule, jesting, raillery.",REVIEW,Context-sensitive English headword
+134,talk,ڏندچرچا,"Talk of the town; gossip, scandal.",REVIEW,Context-sensitive English headword
+135,talk,ڪن جۇن ڳالهيۇن,"Talk in whispers, private talk.",REVIEW,Context-sensitive English headword
+136,talk,ڳالَهُ,"Talk, chat; abusive language.",REVIEW,Context-sensitive English headword
+137,talk,ڳالهاءُ,"Talk, sound of speaking.",REVIEW,Context-sensitive English headword
+138,talk,ڳالِهہ ٻولِهہ مُهارِ,"Talk, chit-chat, conversation; negotiations.",REVIEW,Context-sensitive English headword
+139,trouble,جَفا,"Trouble, hardship; molestation, injustice.",REVIEW,Context-sensitive English headword
+140,trouble,جَنَجَلُ,"Trouble, difficulty, embarrassment, mess.",REVIEW,Context-sensitive English headword
+141,trouble,دِقَتَ,"Trouble, annoyance; pain, ache.",REVIEW,Context-sensitive English headword
+142,trouble,هڻ ڌڻ,"Trouble, bother. False weighing or. measuring.",REVIEW,Context-sensitive English headword
+143,watching,سنڀال,"Watching, taking care, guarding",REVIEW,Context-sensitive English headword
+144,breaking,ڀَڃُگَهڙِ,"Breaking up and remaking; adding and deducting; prudence, sense.",REVIEW,Context-sensitive English headword
+145,pulling,گهيچو,"Pulling and pushing backwards and forwards, or in and out, irregular oscillation, the uneasy motion or jolting of a camel, &c.",REVIEW,Context-sensitive English headword
+146,sound,ٽيِن ٽيِن,Sound of a fart. Idle foolish chattering.,REVIEW,Context-sensitive English headword
+147,still,هيڪاريِ,"Still, more, still greater, still less, still further. For good.",REVIEW,Context-sensitive English headword
+148,talk,آلاپُ,"Talk, conversation. A prelude to music, sweet strains.",REVIEW,Context-sensitive English headword
+149,talk,پَچارَ,"Talk, speech; improper or unpleasing talk, irritating language.",REVIEW,Context-sensitive English headword
+150,talk,ذِڪِرُ,"Talk, saying, mention, remembrance; reading of the Quran and reciting the praises and names of God.",REVIEW,Context-sensitive English headword
+151,talk,ڳالهوڙ,"Talk without end, great prolixity of tongue; a serious affair.",REVIEW,Context-sensitive English headword
+152,twist,وَرُ,"Twist, curve, bend, turn, circuit, coil curl, ringlet, winding. A boon, blessing, especially in the gift of a Brahmin or deity. ( com ) Quality or number of cloth. Circumvention, deceiving. A bridegroom or husband.",PASS,
+153,hindu,ڀُڄَڻُ,(Hindu).,PASS,
+154,hindu,مَعْرِڪو,(Hindu).,PASS,
+155,successful,سَڪاجُ,"Successful, complete, accomplished. One whose actions are good.",REVIEW,Context-sensitive English headword
+156,pulling,تَڻيِ,"Pulling: desire, longing.",REVIEW,Context-sensitive English headword
+157,risen,اُٿِيَلُ,"Risen; sore (an eye); heavy (sea); longing, yearning (the heart).",REVIEW,Context-sensitive English headword
+158,breaking,اَنجاميِ ڪۇڙو,One breaking promises.,REVIEW,Context-sensitive English headword
+159,breaking,ڊۇنڊۇن,"Farting, breaking wind.",REVIEW,Context-sensitive English headword
+160,ruined,اُجڙ,"Desolate, ruined.",REVIEW,Context-sensitive English headword
+161,ruined,چوڙ,"Destroyed, ruined, waste.",REVIEW,Context-sensitive English headword
+162,ruined,خَرابَُ,"Bad, evil; ruined.",REVIEW,Context-sensitive English headword
+163,sound,ڦَهَڪاءُ,A slapping sound.,REVIEW,Context-sensitive English headword
+164,sound,جهانئيِ,"Noise, sound, voice.",REVIEW,Context-sensitive English headword
+165,sound,چيِچاٽُ,A creaking sound.,REVIEW,Context-sensitive English headword
+166,sound,چيِنگهاٽُ,A creaking sound.,REVIEW,Context-sensitive English headword
+167,sound,کَڙْڪائڻ,"To knock, sound.",REVIEW,Context-sensitive English headword
+168,sound,گُڙْڪو,A rumbling sound.,REVIEW,Context-sensitive English headword
+169,sound,لَلْڪارَ,"Melody, sweet sound.",REVIEW,Context-sensitive English headword
+170,sound,ٻِرْڪَ,A sound.,REVIEW,Context-sensitive English headword
+171,sound,رِمِ جِهمِ,A pleasing sound.,REVIEW,Context-sensitive English headword
+172,still,ڪَرْڻَڦُلُ,"A still, alembic.",REVIEW,Context-sensitive English headword
+173,still,نِوائو,"Windless, calm, still.",REVIEW,Context-sensitive English headword
+174,suitable,جوڙائِتو,"or Suitable, suitably.",REVIEW,Context-sensitive English headword
+175,talk,اورَڳُ,Kind friendly talk.,REVIEW,Context-sensitive English headword
+176,talk,بحرڦاڙڻ,To talk tall.,REVIEW,Context-sensitive English headword
+177,talk,بڪوادِ,"Prattle, foolish talk.",REVIEW,Context-sensitive English headword
+178,talk,پَچارَڻُ,To talk about.,REVIEW,Context-sensitive English headword
+179,talk,ڍيڪَ ڇَڎَڻُ,To talk nonsense.,REVIEW,Context-sensitive English headword
+180,talk,گوياگفتار,"Conversation, talk.",REVIEW,Context-sensitive English headword
+181,talk,مَقالُ,"Saying, talk, conversation.",REVIEW,Context-sensitive English headword
+182,talk,واڪَڻُ,"To talk, converse.",REVIEW,Context-sensitive English headword
+183,talk,واڻيِ,"Language, talk.",REVIEW,Context-sensitive English headword
+184,talk,وِنڌاپَڻُ,"Chatter, talk nonsense.",REVIEW,Context-sensitive English headword
+185,talk,اورَڳُہ,Kind friendly talk.,REVIEW,Context-sensitive English headword
+186,transferred,بدلي ٿيڻ,To be transferred.,PASS,
+187,trouble,اُچائڻ,"To trouble, annoy.",REVIEW,Context-sensitive English headword
+188,trouble,اَڳلي کي هلاک ٿوکرين,You trouble one.,REVIEW,Context-sensitive English headword
+189,trouble,جاڳَرُ,Demand. (?) Trouble. (?),REVIEW,Context-sensitive English headword
+190,trouble,جُکَ,"Pain, sorrow, trouble.",REVIEW,Context-sensitive English headword
+191,trouble,دق ڪرڻ,"To trouble, annoy.",REVIEW,Context-sensitive English headword
+192,trouble,ڏانجهَہ,"Pain, trouble.",REVIEW,Context-sensitive English headword
+193,trouble,ڪَهَڪُ,"Pain, distress, trouble.",REVIEW,Context-sensitive English headword
+194,trouble,کاپارو,"Annoyance, trouble, botheration.",REVIEW,Context-sensitive English headword
+195,trouble,مَشَقَّتِ,"Labour, trouble, difficulty.",REVIEW,Context-sensitive English headword
+196,trouble,وِماسُ,"Anxiety, grief, trouble.",REVIEW,Context-sensitive English headword
+197,trouble,وِياڪُلُ ڪرڻ,"To annoy, trouble.",REVIEW,Context-sensitive English headword
+198,trouble,هَرْجُ,"Loss, detriment. Trouble.",REVIEW,Context-sensitive English headword
+199,trouble,هلاکہ ڪرڻ,"To trouble, annoy.",REVIEW,Context-sensitive English headword
+200,trouble,هَلاوَتَ,"Distress, annoyance, trouble.",REVIEW,Context-sensitive English headword
+201,watching,جاڳَرْتِ,"Waking, watching, vigilance.",REVIEW,Context-sensitive English headword
+202,watching,سَهيڙَ,"Carefulness, watching, vigilance.",REVIEW,Context-sensitive English headword

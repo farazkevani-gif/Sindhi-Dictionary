@@ -1,0 +1,272 @@
+﻿score,english,sindhi,english_definition,final_decision,final_reason,audit_flags
+13,arriving,سَهيڙو,Arriving.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,blanco,کَڙۇ,Blanco.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,breaking,ٽوڙَڦوڙَ,Breaking.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,butts,گوليِ مارِ,Butts.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,cor,قُلْبانُ,Cor,ACCEPT,Definition directly matches the English headword.,WATCH_WORD;HEADWORD_ONLY;VERY_SHORT_ENGLISH
+13,flaming,آتش بار,Flaming.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,greater,اَڪِبَرُ,Greater.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,liter,پوشِ,liter,ACCEPT,Definition directly matches the English headword.,WATCH_WORD;HEADWORD_ONLY
+13,proving,اِثباتي,Proving.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,pulling,ساهَ,Pulling.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,remembered,يادِ,Remembered.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,risen,اُٿِياڪُ,Risen.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,ruined,زافُ,Ruined.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,sound,ڪَرَلُ,Sound.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,sound,ڪَڙْڪَڙِ,Sound.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,still,توءِ,Still.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,storing,سَٿَ,Storing.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,successful,ڪرتارٿ,Successful.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,suitable,بابَ خو,Suitable.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,tailed,پُڇِرُ,Tailed.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,talk,گويا,Talk.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,talk,سُرْجيِتُ,Talk,ACCEPT,Definition directly matches the English headword.,WATCH_WORD;HEADWORD_ONLY
+13,transferred,مُنْتَقِلُ,Transferred.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,trouble,تَنگَ,Trouble.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+13,watching,نگهبانيِ,Watching.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,abs,کَرائيِ,abs. n of,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,abs,کَڙائيِ,abs. n of,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,abs,نِروڳو,abs. n,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,abs,وِسائيِ,abs. n of,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,adv,تَٿان پَٿان,adv. In extremis,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,aim,مَدارُ,"Aim, accomplishment; dependence",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+8,aim,مَقْصۇدُ,"Aim, object, intention.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+8,au,ٻَڪُہ,Au embrace; embracing.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+8,bot,نَرُوارُ,bot ) Stamen,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+8,has,موڻِ,has been put.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+8,nom,آنئًَين,nom. pl ) of,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,nom,ساڍا,nom. plu. mas (,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,nom,ساڍَيۇن,nom. plu. fem,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,opp,ماٽير,opp to,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+8,pl,اَنواع,pl. of,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+8,pulling,تَڻيِ,"Pulling: desire, longing.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+8,pulling,کِنچاتاڻَ,"Pulling, pressure.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,ruined,بَرِباد,"Ruined, destroyed, lost.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,ruined,ڀَثِڻِ,"Ruined, destroyed.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,ruined,تَباهُ,"Ruined, undone.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,sound,اَروﮖ,"Sound, healthy.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,sound,ڪَڙلاءُ,"Sound, voice.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,sound,کَڙاکَڙيِ,"Sound, strong.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,sound,آلابُ,"Sound, cry.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,successful,سَمُرادو,Successful. Amiable.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+8,tal,ڊِگهُہ,Tal (in contempt).,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+8,talk,آلاءُ,"Talk, conversation.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,talk,چَوْپَچَؤ,"Talk, conversation.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,talk,گُفْتارُ,"Talk, chat.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,talk,ڳائووائو,"Talk, mention.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,trouble,اَهَنْجُ,"Trouble, inconvenience; pain.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,trouble,اِيذاءُ,"Trouble, nuisance; pain.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,trouble,تَصْديِعَ,"Trouble, difficulty.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,trouble,تَڪْلِيفَ,"Trouble, difficulty, hardship.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,trouble,جاکوڙَ,"Trouble, difficulty, vexation.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,trouble,سُتۇنُ,Trouble. Speech.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+8,trouble,ڪاڪاهو,"Trouble, pain, difficulty.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+8,trouble,لَنوَنديِ,"Trouble, bother (as",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,ab,گِشْڪو,"Ab asion, rubbing, friction.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,aim,چُسْتَ,"Aim, the directing a missile.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,bur,ڀَچَٽيِ,Bur desmochœta (a plant).,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,com,خاصيِ ڪرڻ,com ) To accept (a hundi,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,com,مَتُ,com ) A partnership deed.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,com,جنس ميل,com ) A stock-book,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,com,ميل ڪڍڻ,com To take stock.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,com,وهي واٽ,com ) Correspondence. A public road.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,cry,پُڪارَ,"Cry, outcry; a complaint.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,has,اِبهيِٴڪڙيِ آيوآهيِ ڇا؟,Has he reached this stage?.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,lit,چارپئسا,lit Four pice) Money; competence.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,lit,خۇدڪشيدو,lit Self-drawn). Fancy blend (liquor).,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,lit,نِشَسْتِ بَرْخاسِتِ,"lit Sitting and rising). Etiquette, manners.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,lit,هَمَهَ اۇاَسْتِ,lit All is He) Pantheism.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,lit,اوتِ پوتِ,lit warp & woof) Thoroughly.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,liter,اُلَسْتُ,liter Am I not?) Eternity.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,pulling,گوشِماليِ,Pulling the ears; chastisement; reproof.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,pulling,ڎاڙهئيِ پَٽَ,"Pulling of beards; quarrelling, scuffle.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,risen,آڪِرو,"Risen in price, dear; cross-dispositioned.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,sound,اَروﮘا ئيِ,"Sound health, freedom from sickness.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,sound,چَرْٻمِ,Sound made in eating.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,sound,سُمَتيِ,Sound sense or judgment.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,sound,صَدا,"Sound, voice, echo. Mendicant's cry.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,sound,گهِڻْگِهڻِ,"Sound of a bell, ding-dong.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,st,پاپيِتو,St. Ignatius's bean.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+7,still,تِهائيِن,"Still more, the more.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,still,ڪُهائيِ,Still born (an infant).,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,suitable,جوڳو,"Suitable, fit, proper, sufficient; liable.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,talk,چَرْچو,"Talk, report; joking, ridicule, jesting, raillery.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,talk,ڏندچرچا,"Talk of the town; gossip, scandal.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,talk,ڪن جۇن ڳالهيۇن,"Talk in whispers, private talk.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,talk,ڳالَهُ,"Talk, chat; abusive language.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,talk,ڳالهاءُ,"Talk, sound of speaking.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,talk,ڳالِهہ ٻولِهہ مُهارِ,"Talk, chit-chat, conversation; negotiations.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,trouble,جَفا,"Trouble, hardship; molestation, injustice.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,trouble,جَنَجَلُ,"Trouble, difficulty, embarrassment, mess.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,trouble,دِقَتَ,"Trouble, annoyance; pain, ache.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,trouble,هڻ ڌڻ,"Trouble, bother. False weighing or. measuring.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+7,ups,نَشيبُ وفَرازُ,Ups and downs; profit and loss.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+7,watching,سنڀال,"Watching, taking care, guarding",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,aim,شَسْتُ,Aim; a thumb-stall used by archers.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+6,breaking,ڀَڃُگَهڙِ,"Breaking up and remaking; adding and deducting; prudence, sense.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,lit,بالانِشيِنُ,lit high-seated). Sitting high. A high seat.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,ٺوٺُ,lit A dried-up tree). A dried-up mass of body; any thing hard from dryness.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,چارآدميِ,lit Four men) People in general; a jury of arbitrators.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,چئن ڎينهن جوچٽڪو,"lit Four day's glimmer). Ephemeral existence, nine days' wonder.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,خانه بدوش,lit One's house on his shoulders; nomadic.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,ڪنڊاپوکڻ,lit to sow thorns.) To do evil.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,ڪَناگهَڙَڻُ,lit To make pots). To idle away time.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,نڪ وڍڻ,lit To cut the nose; to put to shame.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,سرنوشت,"lit What is written on the forehead, destiny.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,lit,هرديگيِ چمچو,lit ) A ladle for every kettle; spoken of a mischief maker.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,mah,وَظيفو,"Mah daily worship; stipend, pension; a scholarship.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,med,سَجُهہ,"med ) Lochia, the discharge from the womb and vagina which follows child-birth.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,med,ضيق النفس,"med ) Dyspnœa, difficulty of breathing; asthma.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,med,ڪنَگو,"med ) Marasmus, a wasting away of flesh.",ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+6,pulling,گهيچو,"Pulling and pushing backwards and forwards, or in and out, irregular oscillation, the uneasy motion or jolting of a camel, &c.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,risen,اُٿِيَلُ,"Risen; sore (an eye); heavy (sea); longing, yearning (the heart).",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+6,sound,ٽيِن ٽيِن,Sound of a fart. Idle foolish chattering.,ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,still,هيڪاريِ,"Still, more, still greater, still less, still further. For good.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,talk,آلاپُ,"Talk, conversation. A prelude to music, sweet strains.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,talk,پَچارَ,"Talk, speech; improper or unpleasing talk, irritating language.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,talk,ذِڪِرُ,"Talk, saying, mention, remembrance; reading of the Quran and reciting the praises and names of God.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+6,talk,ڳالهوڙ,"Talk without end, great prolixity of tongue; a serious affair.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+4,abs,پارﯘٿو,Stale abs. n,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,abs,جۇکو,Moneyless. abs. n,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,abs,شفاياب,Convalescent. abs. n,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,abs,نيڪ بخت,Fortunate; dutiful. ( abs,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,abs,هريوڀريو,Idem. ( abs. n,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,ah,ووءِ,Alas! ah!,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,am,اَناالحَقُّ,I am God.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,ant,اُڏوهيِ,A white ant.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,ant,چٍيهو,A small ant.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,bot,اوڌَ,"( bot ) Soboles, sucker.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,bot,رَجَ,Dust ( bot ) Pollen.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,bot,سدابهار,"( bot ) Evergreen, perennial.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,bot,گَوْنٽُ,Kernel. ( bot ) Corolla.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,bot,اوٽِيڙو,( bot ) A tiller.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,breaking,اَنجاميِ ڪۇڙو,One breaking promises.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,breaking,ڊۇنڊۇن,"Farting, breaking wind.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,com,سۇجَ,( com ) Gross (weight).,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,com,کوٽِپو,( com ) Wastage.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,com,اصل مال,( com ) Prime quality.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,com,مُدي پُنيِ,( com ) Mature.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,com,موڙومچڪو,Idem. ( com ) Dull.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,cry,رڙڪو,A cry.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,cry,نَعْرو,"A cry, shout.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,cry,آلابُ,"Sound, cry.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,cry,ٽيرَ,A cry.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,cue,ڏَسُ,"Direction, cue, hint.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,ect,سٺائتو,"or Opportune, ect.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,got,سَهيِ سَنبَهيِ,Having got ready.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,gui,سَتارَ,A gui tar.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,has,هنجيی هليٿيِ,He has influence.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,inf,اُڌاڻو,Went away. inf,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,kos,ڳاهۇ,A kos (2 miles.),ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,lit,سَتاڙو,lit Seventh day). The ceremony of the husband taking his bride home a day or two subsequent to the wedding after she has visited her friends.,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+4,ly,هَفْتيِ وارُ,or Weekly -ly.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,mah,فَريدُ,A Mah saint.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,mah,نِمازَ,Prayer ( Mah,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,mah,ٻُرْڙو,A Mah caste.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,mas,ساڍا,nom. plu. mas (,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,mas,کارُ,( mas ) (,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+4,med,خُماقَ,( med ) Quinsy.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,سُفۇفُ,( med ) Powder.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,ڪِڇُ,( med ) Leucorrhœa.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,نيِسائِڻُ,( med ) To resolve.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,وِرِ,"( med ) Sinus, fistula.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,اَنبُ,( med ) Pterygium.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,تَشْخِيصِ,Specification; ( med ) diagnosis.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,عَرْقُ الِسا,( med ) Sciatica.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,med,ناسۇرُ,( med ) Sinus.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,nom,تَوِهين,The nom. pl,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,nom,مِڙِيوئي,All ( nom. pl,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,اِسٿۇل,Gross ( opp to,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,ڏۇتو,Income ( opp to,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,سُجَهندو,Light ( opp to,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,سَراوَندو,( Opp,ACCEPT,Definition directly matches the English headword.,VERY_SHORT_ENGLISH
+4,opp,ڪَبِيرُ,"Great, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,ڪِٺُ,"Heartwood, opp to ڪِٺُ . ڪَچُ",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,مقررَيِ,"Appointment, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,ونجوڳُہ,"Discord, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,يَڪِلانگو,"Sidesaddle, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,اُڀَڪَ,"Standing, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,اَڀَهۇ,"Scanty, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,اُجَهندو,"Dusk, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,اَڳَڍائو,"Well born, opp",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,opp,ڀۇتو,"Expenditure, opp to",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pat,ٽِپِڙ,"To tap, pat.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pat,ٺاپُرَڻُ,To pat.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,اِجرام,n. pl Bodies.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,اَحڪام,n. pl Orders.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,آنئًَين,nom. pl ) of,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,بوراڪۇن,n. pl Barracks.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,ٻَچَ,n. pl Dovetail.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,ڀِرۇن,n. pl Eyebrows.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,تَوِهين,The nom. pl,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,تَهَباردُن,n. pl Pieces.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,پَرَهَڻُ,n. pl Clothings.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,پَنڌِرَنِ,The pl. oblique,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,سُڪلَ ڇيڻا,n. pl Casings.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,ڇيهۇن ڇيهۇن,n. pl,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,دِمَ,n. pl Boiled,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,عَناصِرُ,n. pl Elements.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,ڪَپِچا,n. pl Rubble.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,ڪَسَڙَ,n. pl Weeds.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,لُڳْڙَٽُڳْڙَ,n. pl Rags.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,مِڙِيوئي,All ( nom. pl,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,pl,چِڙِۇن,n. pl of,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,rob,ڦُرَڻُ,To rob.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,rub,رَڳِڙَڻُ,"To rub, grate.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,rub,گَهِڪو,A rub.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,ruined,اُجڙ,"Desolate, ruined.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,ruined,چوڙ,"Destroyed, ruined, waste.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,ruined,خَرابَُ,"Bad, evil; ruined.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sip,ڍُڪُ,"A sup, sip.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,sip,ڍُڪَڻُ,To sip.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,sip,سرڪو,To sip.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,sip,سرڪيِ,A sip.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,sit,ٺِنڀي هَڻَْنُ,To sit silent.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,sit,ويهَڻُ,To sit.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,sound,ڦَهَڪاءُ,A slapping sound.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,جهانئيِ,"Noise, sound, voice.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,چيِچاٽُ,A creaking sound.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,چيِنگهاٽُ,A creaking sound.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,کَڙْڪائڻ,"To knock, sound.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,گُڙْڪو,A rumbling sound.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,لَلْڪارَ,"Melody, sweet sound.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,ٻِرْڪَ,A sound.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sound,رِمِ جِهمِ,A pleasing sound.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,spy,چاريِ,A spy.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,still,ڪَرْڻَڦُلُ,"A still, alembic.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,still,نِوائو,"Windless, calm, still.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,successful,سَڪاجُ,"Successful, complete, accomplished. One whose actions are good.",ACCEPT,Definition directly matches the English headword.,WATCH_WORD
+4,suitable,جوڙائِتو,"or Suitable, suitably.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,sup,ڍُڪُ,"A sup, sip.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,sup,سَهارو,"Hope, sup-",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,talk,اورَڳُ,Kind friendly talk.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,بحرڦاڙڻ,To talk tall.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,بڪوادِ,"Prattle, foolish talk.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,پَچارَڻُ,To talk about.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,ڍيڪَ ڇَڎَڻُ,To talk nonsense.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,گوياگفتار,"Conversation, talk.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,مَقالُ,"Saying, talk, conversation.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,واڪَڻُ,"To talk, converse.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,واڻيِ,"Language, talk.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,وِنڌاپَڻُ,"Chatter, talk nonsense.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,talk,اورَڳُہ,Kind friendly talk.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,tap,ٽِپِڙ,"To tap, pat.",ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,tie,وَنگَہ,To tie.,ACCEPT,Candidate retained after final rule-based refinement.,VERY_SHORT_ENGLISH
+4,transferred,بدلي ٿيڻ,To be transferred.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,اُچائڻ,"To trouble, annoy.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,اَڳلي کي هلاک ٿوکرين,You trouble one.,ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,جاڳَرُ,Demand. (?) Trouble. (?),ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,جُکَ,"Pain, sorrow, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,دق ڪرڻ,"To trouble, annoy.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,ڏانجهَہ,"Pain, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,ڪَهَڪُ,"Pain, distress, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,کاپارو,"Annoyance, trouble, botheration.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,ڳَهَڻُ,") Trouble, toil, fagging.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,مَشَقَّتِ,"Labour, trouble, difficulty.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,وِماسُ,"Anxiety, grief, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,وِياڪُلُ ڪرڻ,"To annoy, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,هَرْجُ,"Loss, detriment. Trouble.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,هلاکہ ڪرڻ,"To trouble, annoy.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,trouble,هَلاوَتَ,"Distress, annoyance, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,watching,جاڳَرْتِ,"Waking, watching, vigilance.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD
+4,watching,سَهيڙَ,"Carefulness, watching, vigilance.",ACCEPT,Candidate retained after final rule-based refinement.,WATCH_WORD

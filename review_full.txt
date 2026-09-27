@@ -1,0 +1,305 @@
+score,english,sindhi,english_definition,final_decision,final_reason,quality_decision,quality_reason
+13,arriving,??????,Arriving.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,atlantic,????????,Atlantic.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,blanco,????,Blanco.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,breaking,????????,Breaking.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,bullying,????????,Bullying.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,butts,????? ????,Butts.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,complaining,???????,Complaining.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,compliments,????,Compliments.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,congratulations,?????????,Congratulations.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,convex,??????,Convex.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,convex,????? ??????,Convex.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,cor,????????,Cor,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. Very short or abbreviation-like English entry. English headword requires contextual/sense review.
+13,coral,????????,Coral.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,coral,????????,Coral.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,crisp,???????,Crisp.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,crooked,?????,Crooked.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,crooked,????,Crooked.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,curse,?????,Curse.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,cursed,??????? ???????,Cursed.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,cursed,???????,Cursed.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,cursed,???????,Cursed.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,curved,?????,Curved.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,drinking,???????,Drinking.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,drinking,????,Drinking.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,ebony,??????,Ebony.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,egypt,??????,Egypt.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,england,??????????,England.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,equine,???????,Equine.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,everywhere,??????????,Everywhere.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,everywhere,??????,Everywhere.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,everywhere,?????,Everywhere.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,everywhere,????? ?????,Everywhere.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,everywhere,???? ?????,Everywhere.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,exactly,????????,Exactly.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,fireworks,???????,Fireworks.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,flaming,??? ???,Flaming.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,forgiveness,??????,Forgiveness.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,giving,?????,Giving.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,giving,?????,Giving.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,greater,????????,Greater.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,greece,??????,Greece.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,kissing,??????,Kissing.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,licking,????,Licking.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,liter,????,liter,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,nineteenth,?????????,Nineteenth.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,nowadays,???,Nowadays.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,parents,???? ????,Parents.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,parents,??????????,Parents.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,persia,??????,Persia.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,preaching,??????,Preaching.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,preaching,??????,Preaching.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,preaching,????????,Preaching.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,prophets,????????,Prophets.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,proving,???????,Proving.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,pulling,????,Pulling.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,remembered,????,Remembered.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,risen,????????,Risen.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,ruined,????,Ruined.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,savings,?????,Savings.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,savings,?????,Savings.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,secondly,?????,Secondly.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,secretly,????,Secretly.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,shaking,???? ????,Shaking.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,shaking,????,Shaking.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,slaves,????????,Slaves.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,sometimes,???? ????,Sometimes.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,sometimes,????? ?????,Sometimes.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,sound,??????,Sound.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,sound,????????,Sound.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,sounding,???????,Sounding.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,spinach,???????,Spinach.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,still,????,Still.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,storing,????,Storing.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,successful,??????,Successful.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,suitable,???? ??,Suitable.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,swallowing,??????,Swallowing.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,swallowing,??????,Swallowing.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,syria,????,Syria.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,tailed,??????,Tailed.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,talk,????,Talk.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,talk,?????????,Talk,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,theatrical,??????,Theatrical.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,thunder,??????,Thunder.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,tickling,?????????,Tickling.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,tolerant,??? ???,Tolerant.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,tomato,??????,Tomato.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,tomorrow,??????,Tomorrow.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,transferred,??????????,Transferred.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,travelling,???????,Travelling.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,travelling,?????,Travelling.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,trees,??????,Trees.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,trouble,?????,Trouble.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,twentieth,??????,Twentieth.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,vomiting,?????? ????,Vomiting.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,vomiting,???? ???,Vomiting.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,wandering,??????,Wandering.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,wandering,?????,Wandering.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,watching,????????,Watching.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword. English headword requires contextual/sense review.
+13,weighing,?????,Weighing.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,worry,???????,Worry.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,wrestling,???????,Wrestling.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+13,wrestling,????,Wrestling.,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+8,aim,??????,"Aim, accomplishment; dependence",ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry. English headword requires contextual/sense review.
+8,aim,????????,"Aim, object, intention.",ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry. English headword requires contextual/sense review.
+8,au,?????,Au embrace; embracing.,ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry.
+8,brothers,????????,"Brothers) Brotherly, friendly.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+8,containing,??????,Containing two maunds).,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched closing parenthesis.
+8,has,????,has been put.,ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry.
+8,hunting,???? ???,Hunting ground).,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched closing parenthesis.
+8,pulling,?????,"Pulling: desire, longing.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+8,pulling,?????????,"Pulling, pressure.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,ruined,???????,"Ruined, destroyed, lost.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,ruined,??????,"Ruined, destroyed.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,ruined,??????,"Ruined, undone.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,sound,?????,"Sound, healthy.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,sound,???????,"Sound, voice.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,sound,?????????,"Sound, strong.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,sound,?????,"Sound, cry.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,successful,????????,Successful. Amiable.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+8,talk,?????,"Talk, conversation.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,talk,?????????,"Talk, conversation.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,talk,????????,"Talk, chat.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,talk,????????,"Talk, mention.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,trouble,????????,"Trouble, inconvenience; pain.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,trouble,???????,"Trouble, nuisance; pain.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,trouble,?????????,"Trouble, difficulty.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,trouble,?????????,"Trouble, difficulty, hardship.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,trouble,??????,"Trouble, difficulty, vexation.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,trouble,??????,Trouble. Speech.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+8,trouble,??????,"Trouble, pain, difficulty.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+8,trouble,?????????,"Trouble, bother (as",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review. Definition has unmatched opening parenthesis.
+8,wandering,????,Wandering(a faqir,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched opening parenthesis.
+7,aim,??????,"Aim, the directing a missile.",ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry. English headword requires contextual/sense review.
+7,bur,???????,Bur desmochœta (a plant).,ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry.
+7,corpse,???????,"Corpse, dead body ( Shah",ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+7,cry,??????,"Cry, outcry; a complaint.",ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry.
+7,has,??????????? ??????? ???,Has he reached this stage?.,ACCEPT,Definition directly matches the English headword.,REVIEW,Very short or abbreviation-like English entry.
+7,having,???? ????,Having power and position. (,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
+7,killed,????????,"Killed) Calcined metal, calx.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+7,liter,????????,liter Am I not?) Eternity.,ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review. Definition has unmatched closing parenthesis.
+7,pulling,?????????,Pulling the ears; chastisement; reproof.,ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,pulling,??????? ????,"Pulling of beards; quarrelling, scuffle.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,risen,?????,"Risen in price, dear; cross-dispositioned.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,sound,?????? ???,"Sound health, freedom from sickness.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,sound,???????,Sound made in eating.,ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,sound,???????,Sound sense or judgment.,ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,sound,????,"Sound, voice, echo. Mendicant's cry.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,sound,??????????,"Sound of a bell, ding-dong.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,still,????????,"Still more, the more.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,still,???????,Still born (an infant).,ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,suitable,????,"Suitable, fit, proper, sufficient; liable.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,talk,??????,"Talk, report; joking, ridicule, jesting, raillery.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,talk,???????,"Talk of the town; gossip, scandal.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,talk,?? ??? ???????,"Talk in whispers, private talk.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,talk,??????,"Talk, chat; abusive language.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,talk,???????,"Talk, sound of speaking.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,talk,?????? ?????? ??????,"Talk, chit-chat, conversation; negotiations.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,till,??????,"Till then, so long ( corr of",ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+7,trouble,????,"Trouble, hardship; molestation, injustice.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,trouble,????????,"Trouble, difficulty, embarrassment, mess.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,trouble,??????,"Trouble, annoyance; pain, ache.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,trouble,?? ??,"Trouble, bother. False weighing or. measuring.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+7,warriors,?????,Warriors fond of war. ( Shah,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+7,watching,?????,"Watching, taking care, guarding",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,aim,??????,Aim; a thumb-stall used by archers.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry. English headword requires contextual/sense review.
+6,began,??????? ???,"Began to speak); to get aground (a boat); to rot, be spotted (fruit); to match with; to follow, to listen to, believe, rely on (what another says); to reach; to appertain; join. To strike (as a stone); to strike (the mind).",ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched closing parenthesis.
+6,breaking,?????????,"Breaking up and remaking; adding and deducting; prudence, sense.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,falling,??????,"Falling of ripened fruit (esp. mangoes), a windfall. ( e. g",ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+6,pulling,?????,"Pulling and pushing backwards and forwards, or in and out, irregular oscillation, the uneasy motion or jolting of a camel, &c.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,risen,????????,"Risen; sore (an eye); heavy (sea); longing, yearning (the heart).",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+6,sound,???? ????,Sound of a fart. Idle foolish chattering.,ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,still,???????,"Still, more, still greater, still less, still further. For good.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,stray,???????,"Stray, and without owner (cattle, &c.) A fine taken from thieves for a theft committed. The word (from",ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+6,talk,?????,"Talk, conversation. A prelude to music, sweet strains.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,talk,??????,"Talk, speech; improper or unpleasing talk, irritating language.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,talk,??????,"Talk, saying, mention, remembrance; reading of the Quran and reciting the praises and names of God.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,talk,??????,"Talk without end, great prolixity of tongue; a serious affair.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+6,till,????????????,"Till then, so long, up to that time or place. ( corr of",ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+6,twist,????,"Twist, curve, bend, turn, circuit, coil curl, ringlet, winding. A boon, blessing, especially in the gift of a Brahmin or deity. ( com ) Quality or number of cloth. Circumvention, deceiving. A bridegroom or husband.",ACCEPT,Definition directly matches the English headword.,REVIEW,Definition contains dictionary abbreviation marker.
+6,worked,?????,Worked with embroidery. (,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
+4,actions,???,") Actions, conduct.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,ah,????,Alas! ah!,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,am,???????????,I am God.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,ant,???????,A white ant.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,ant,?????,A small ant.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,arrive,????????,"). To arrive, reach.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,birds,??????,) Food o birds.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,breaking,???????? ????,One breaking promises.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,breaking,??????,"Farting, breaking wind.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,cards,????,Brocade). Playing cards.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,comp,?????,"Conceit, foppery. ( comp",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched opening parenthesis.
+4,competence,??? ?????,fig ) Moderate competence.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,computing,??????,") Counting, computing.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,cruel,?? ??????,"Merciless, cruel. (",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
+4,cry,????,A cry.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,cry,??????,"A cry, shout.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,cry,?????,"Sound, cry.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,cry,????,A cry.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,cue,????,"Direction, cue, hint.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,dancing,??????,") A dance, dancing.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,educated,??????,"Lettered, educated, (as",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched opening parenthesis.
+4,faced,??????,") Faced, as",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,finder,??????,") Finder, discoverer.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,friends,??????,fig ) Intimate friends.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,got,????? ????????,Having got ready.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,has,????? ??????,He has influence.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,heard,????,) To be heard.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,hindi,???????,( Hindi,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+4,hindi,??????,( Hindi,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition has unmatched opening parenthesis.
+4,hindu,??????,(Hindu).,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+4,hindu,????????,(Hindu).,ACCEPT,Definition directly matches the English headword.,REVIEW,Definition is essentially the English headword.
+4,hindu,??????,) Of a Hindu.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,jewelry,????,( Jewelry ) Girdle. ( Weaving,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched opening parenthesis.
+4,kinds,??????,") Sorts, kinds.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,knowing,?????? ???,Persian knowing). ??????? ??????,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,kos,????,A kos (2 miles.),ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,ly,??????? ????,or Weekly -ly.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,motley,???,") Striped, motley, variegated.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,pelican,???????,A pelican (,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
+4,playing,????,Brocade). Playing cards.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,pleased,????,). To be pleased.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,qualities,??????,") Signs, qualities.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,rebound,????,A rebound. (,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
+4,rob,??????,To rob.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,ropes,????,) ( naut ) Ropes.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,rub,????????,"To rub, grate.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,rub,??????,A rub.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,ruined,????,"Desolate, ruined.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,ruined,???,"Destroyed, ruined, waste.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,ruined,???????,"Bad, evil; ruined.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,scaled,??????,") Scaled, scaly, squamous.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,scorpio,??????????,). 'Scorpio.',ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,signs,??????,") Signs, qualities.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,sip,????,"A sup, sip.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,sip,??????,To sip.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,sip,????,To sip.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,sip,?????,A sip.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,sit,????? ???????,To sit silent.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,sit,??????,To sit.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,snap,??????,") A snatch, snap.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,snatch,??????,") A snatch, snap.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,sorts,??????,") Sorts, kinds.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,sound,????????,A slapping sound.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,???????,"Noise, sound, voice.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,???????,A creaking sound.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,?????????,A creaking sound.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,????????,"To knock, sound.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,??????,A rumbling sound.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,????????,"Melody, sweet sound.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,??????,A sound.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sound,???? ?????,A pleasing sound.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,spy,?????,A spy.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,still,??????????,"A still, alembic.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,still,??????,"Windless, calm, still.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,stroll,???????,") A stroll, ramble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,successful,??????,"Successful, complete, accomplished. One whose actions are good.",ACCEPT,Definition directly matches the English headword.,REVIEW,English headword requires contextual/sense review.
+4,suck,????,) To suck.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,suitable,????????,"or Suitable, suitably.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,sup,????,"A sup, sip.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,sup,??????,"Hope, sup-",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,taking,??????,) Taking of water.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,talk,??????,Kind friendly talk.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,???????,To talk tall.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,??????,"Prattle, foolish talk.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,????????,To talk about.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,???? ??????,To talk nonsense.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,?????????,"Conversation, talk.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,??????,"Saying, talk, conversation.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,??????,"To talk, converse.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,?????,"Language, talk.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,?????????,"Chatter, talk nonsense.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,talk,???????,Kind friendly talk.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,tap,?????,"To tap, pat.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,tell,????,") To tell, inform.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,thunder,??????,"To thunder, roar. (",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
+4,tie,??????,To tie.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Very short or abbreviation-like English entry.
+4,touch,??????,) To touch.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,transferred,???? ???,To be transferred.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,??????,"To trouble, annoy.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,????? ?? ???? ??????,You trouble one.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,??????,Demand. (?) Trouble. (?),ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,????,"Pain, sorrow, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,?? ???,"To trouble, annoy.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,???????,"Pain, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,??????,"Pain, distress, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,??????,"Annoyance, trouble, botheration.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,??????,") Trouble, toil, fagging.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review. Definition has unmatched closing parenthesis.
+4,trouble,?????????,"Labour, trouble, difficulty.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,??????,"Anxiety, grief, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,???????? ???,"To annoy, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,??????,"Loss, detriment. Trouble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,????? ???,"To trouble, annoy.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,trouble,????????,"Distress, annoyance, trouble.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,turn,????????-?????,"). A turn, twist.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,turn,??????????,To turn ( Shah,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched opening parenthesis.
+4,turn,????,"Time, tour, turn. (",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
+4,twist,????????-?????,"). A turn, twist.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,watching,????????,"Waking, watching, vigilance.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,watching,??????,"Carefulness, watching, vigilance.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,English headword requires contextual/sense review.
+4,weaving,????,( Jewelry ) Girdle. ( Weaving,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched opening parenthesis.
+4,welcome,?????? ???,) You are welcome.,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,words,??????,"). Words, terms.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,words,??????,") Speech, words.",ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition has unmatched closing parenthesis.
+4,worlds,???????,The three worlds (,ACCEPT,Candidate retained after final rule-based refinement.,REVIEW,Definition appears truncated. Definition has unmatched opening parenthesis.
