@@ -62,6 +62,11 @@ jobs:
             cython==0.29.33 \
             kivy
 
+      - name: Fix p4a virtualenv pip compatibility
+        run: |
+          # Forces virtualenv to a stable version to prevent pip internal import errors
+          python -m pip install --upgrade "virtualenv<20.26.0"
+
       - name: Verify environment
         run: |
           echo "=========================================="
@@ -104,7 +109,7 @@ jobs:
           test -f buildozer.spec
           test -f dictionary_stage14_grouped.csv
           test -f dictionary_stage18_reverse_index.json
-          test -f fonts/NotoSansArabic-Regular.ttf
+          test -f dictionary_stage22_android.db
 
           echo
           echo "Required files: OK"
