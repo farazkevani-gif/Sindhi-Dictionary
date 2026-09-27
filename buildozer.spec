@@ -28,8 +28,7 @@ source.exclude_patterns = *.pyc,*.pyo,*.bak,*.save,*_backup.py,*_review.csv,*_au
 version = 1.0
 
 # (list) Application requirements
-requirements = python3,kivy,charset-normalizer==3.3.2
-
+requirements = python3,kivy
 # (list) Supported orientations
 orientation = portrait
 
