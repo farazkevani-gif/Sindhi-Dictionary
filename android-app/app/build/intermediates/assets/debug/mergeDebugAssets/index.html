@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sindhi Dictionary</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<!-- Opening Screen Overlay -->
+<div id="splashScreen">
+    <img src="ajrak-icon.png" alt="App Icon" class="splash-icon">
+    <h2 class="splash-title">English ↔ Sindhi Dictionary</h2>
+    <p class="splash-dev">Developed by Faraz Baloch</p>
+</div>
+
+<div class="app">
+
+    <header>
+        <h1>English ↔ Sindhi Dictionary</h1>
+        <p id="dictionaryStatus" style="display: none;"></p>
+    </header>
+
+    <main>
+
+        <div class="mode-row">
+            <select id="searchMode">
+                <option value="english">English → Sindhi</option>
+                <option value="sindhi">Sindhi → English</option>
+            </select>
+        </div>
+
+        <div class="search-row">
+            <input
+                id="searchInput"
+                type="search"
+                placeholder="Search English word..."
+                autocomplete="off"
+            >
+        </div>
+
+        <div id="results"></div>
+
+    </main>
+
+</div>
+
+<script src="app.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const watermark = document.createElement("div");
+    watermark.className = "watermark";
+    watermark.textContent = "Faraz Baloch";
+    document.body.appendChild(watermark);
+});
+</script>
+
+</body>
+</html>

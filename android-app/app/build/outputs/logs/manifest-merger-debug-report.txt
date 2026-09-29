@@ -1,0 +1,78 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.webkit:webkit:1.12.1] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\9febd1cf1c3effdc2e76418da84a7529\transformed\webkit-1.12.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\6f61606391ba590d6ca80cbdda7a3ded\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\aae8672b60dc56ea86de13b8f1502c6d\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\ec2a3d141c180ad55e2138fcc3be2e8c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\b33fcacb9a636acc74f01415264bb0f8\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:4:5-22:19
+INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:4:5-22:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\6f61606391ba590d6ca80cbdda7a3ded\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\6f61606391ba590d6ca80cbdda7a3ded\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\aae8672b60dc56ea86de13b8f1502c6d\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\aae8672b60dc56ea86de13b8f1502c6d\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\6f61606391ba590d6ca80cbdda7a3ded\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:6:9-53
+	android:roundIcon
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:5:76-115
+	android:icon
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:5:41-75
+	android:allowBackup
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:5:9-40
+activity#org.farazkevani.sindhidictionary.MainActivity
+ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:10:9-20:20
+	android:screenOrientation
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:12:13-49
+	android:exported
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:11:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml
+INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.webkit:webkit:1.12.1] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\9febd1cf1c3effdc2e76418da84a7529\transformed\webkit-1.12.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.12.1] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\9febd1cf1c3effdc2e76418da84a7529\transformed\webkit-1.12.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\6f61606391ba590d6ca80cbdda7a3ded\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\6f61606391ba590d6ca80cbdda7a3ded\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\aae8672b60dc56ea86de13b8f1502c6d\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\aae8672b60dc56ea86de13b8f1502c6d\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\ec2a3d141c180ad55e2138fcc3be2e8c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.1] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\ec2a3d141c180ad55e2138fcc3be2e8c\transformed\annotation-experimental-1.4.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\b33fcacb9a636acc74f01415264bb0f8\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\KS Technologies\.gradle\caches\8.9\transforms\b33fcacb9a636acc74f01415264bb0f8\transformed\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\DEnglish-Sindhi-Dictionary\android-app\app\src\main\AndroidManifest.xml

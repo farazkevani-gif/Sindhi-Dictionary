@@ -1,0 +1,136 @@
+﻿@font-face {
+    font-family: "NotoSindhi";
+    src: url("fonts/NotoSansArabic-Regular.ttf") format("truetype");
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+}
+
+.app {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    min-height: 100vh;
+    background: white;
+}
+
+header {
+    padding: 22px 18px;
+    text-align: center;
+    background: #1f2937;
+    color: white;
+}
+
+header h1 {
+    margin: 0 0 8px;
+    font-size: 26px;
+}
+
+header p {
+    margin: 0;
+    font-size: 14px;
+    opacity: 0.85;
+}
+
+main {
+    padding: 16px;
+}
+
+.mode-row {
+    margin-bottom: 10px;
+}
+
+select,
+input,
+button {
+    font-size: 17px;
+    min-height: 48px;
+    border-radius: 8px;
+}
+
+select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #bbb;
+    background: white;
+}
+
+.search-row {
+    display: flex;
+    gap: 8px;
+}
+
+#searchInput {
+    flex: 1;
+    min-width: 0;
+    padding: 10px;
+    border: 1px solid #aaa;
+}
+
+#searchButton {
+    width: 100px;
+    border: none;
+    background: #2563eb;
+    color: white;
+    cursor: pointer;
+}
+
+#results {
+    margin-top: 16px;
+}
+
+.result {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 8px;
+    background: white;
+}
+
+.english {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 6px;
+}
+
+.sindhi {
+    font-family: "NotoSindhi", serif;
+    font-size: 24px;
+    direction: rtl;
+    text-align: right;
+    line-height: 1.6;
+}
+
+.no-results {
+    text-align: center;
+    padding: 30px 10px;
+    color: #666;
+}
+
+@media (max-width: 500px) {
+
+    header h1 {
+        font-size: 21px;
+    }
+
+    main {
+        padding: 12px;
+    }
+
+    .search-row {
+        flex-direction: column;
+    }
+
+    #searchButton {
+        width: 100%;
+    }
+
+}
